@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prathameshlingayat
-- 👀 I’m interested in Learning Tecnology
+- 👀 I’m interested in Learning Technology
 - 🌱 I’m currently learning Linux
 - 📫 How to reach me you can ping me on linkedIn
 
